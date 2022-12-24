@@ -1,20 +1,18 @@
 # Site settings
 title: Mert Konrat # site title
 description: >- # site description
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+  ReactJS deneyime sahip bir frontend geliştiricisiyim. Görsel olarak çekici ve kullanıcı dostu web siteleri geliştirmenizde yardımcı oluyorum. Projenizi tartışmak ve vizyonunuzu hayata geçirmenize nasıl yardımcı olabilmem için benimle iletişime geçin.
 lang: tr-TR # default lang
 timezone: Asia/Istanbul # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/mrtknrt # site repo [optional]
-mode: dark # default theme "dark" | "light"
+mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
   name: Mert Konrat # author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
+    ReactJS deneyime sahip bir frontend geliştiricisiyim. Görsel olarak çekici ve kullanıcı dostu web siteleri geliştirmenizde yardımcı oluyorum. Projenizi tartışmak ve vizyonunuzu hayata geçirmenize nasıl yardımcı olabilmem için benimle iletişime geçin.
   username: username # general username
   github: mrtknrt # github username
   twitter: twitter_username # twitter username
