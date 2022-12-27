@@ -10,7 +10,7 @@ mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Mert Konrat # author name
+  name: Mert Konrat # author namee
   bio: >- # tell to the world
     ReactJS deneyime sahip bir frontend geliştiricisiyim. Görsel olarak çekici ve kullanıcı dostu web siteleri geliştirmenizde yardımcı oluyorum. Projenizi tartışmak ve vizyonunuzu hayata geçirmenize nasıl yardımcı olabilmem için benimle iletişime geçin.
   username: username # general username
